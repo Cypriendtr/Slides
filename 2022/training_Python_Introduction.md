@@ -1,1 +1,0 @@
-See [https://github.com/JuliaSprenger/presentations/tree/master/2022-11-28_Brainhack-Marseille/python_intro](https://github.com/JuliaSprenger/presentations/tree/master/2022-11-28_Brainhack-Marseille/python_intro)
